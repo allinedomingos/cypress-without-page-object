@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "ES5",                                  
+    "esModuleInterop": true,                             
+    "forceConsistentCasingInFileNames": true,           
+    "strict": false,                                     
+    "skipLibCheck": true,
+    "lib": ["es2020", "DOM"],                            
+  "types": ["cypress"]
+},
+"include": ["./**/*.ts"]
+}
+

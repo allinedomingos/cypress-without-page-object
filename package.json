@@ -1,0 +1,23 @@
+{
+  "name": "cypress-with-page-object",
+  "version": "1.0.0",
+  "description": "Structuring an e2e project with cypress without page object and with commands",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allinedomingos/cypress-with-page-object.git"
+  },
+  "author": "Alline",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allinedomingos/cypress-with-page-object/issues"
+  },
+  "homepage": "https://github.com/allinedomingos/cypress-with-page-object#readme",
+  "dependencies": {
+    "cypress": "^12.12.0",
+    "typescript": "^5.0.4"
+  }
+}
